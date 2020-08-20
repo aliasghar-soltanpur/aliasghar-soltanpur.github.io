@@ -59,11 +59,11 @@ skills:
     toolset:
      
 
-      - name: Front end
-        level: 70%
+      - name : Front end
+        level : 70%
         
-      - name: Wordpress
-       level: 70%
+      - name : Wordpress
+       level : 70%
 
       - name: Java SE
         level: 60%
