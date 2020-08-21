@@ -59,20 +59,20 @@ skills:
     toolset:
      
 
-      name : Front end.
-        level : 70%.
+      name: Front end.
+        level: 70%.
         
        name: Wordpress.
-       level : 70%.
+       level: 70%.
 
        name: Java SE.
-        level : 60%.
+        level: 60%.
 
        name: C/C++.
-        level : 45%.
+        level: 45%.
         
        name: Python.
-        level : 20%.
+        level: 20%.
         
      
 
